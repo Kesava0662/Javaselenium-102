@@ -1,0 +1,11 @@
+Home Page:
+   loginPagepagetitle: "login"
+New Feature:
+   FormAuthlink1LinkXPATH: "//a[contains(.,'Form Authentication')]"
+   Username_TTextBoxXPATH: "//input[@id='username']"
+Form Authentication:
+   Loginpage_TBTextBoxXPATH: "//h2[contains(.,'Login Page')]"
+   Login_buttonButtonXPATH: "//i[contains(.,'Login')]"
+   passwordhead_labelLabelXPATH: "//label[contains(.,'Password')]"
+   Password_TATextAreaXPATH: "//input[@id='password']"
+   usenamehead_linkLinkXPATH: "//label[contains(.,'Username')]"
