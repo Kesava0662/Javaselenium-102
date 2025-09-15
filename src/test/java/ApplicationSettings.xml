@@ -4,7 +4,7 @@
     <APIURL/>
     <BrowserType>Chrome</BrowserType>
     <EnableDebugLog>False</EnableDebugLog>
-    <EnableWebdriverPath>False</EnableWebdriverPath>
+    <EnableWebdriverPath>true</EnableWebdriverPath>
     <PrintTextInConsole>False</PrintTextInConsole>
     <UserName>Vidisha Bhat</UserName>
     <ProjectName>Web Actions ACT 3</ProjectName>
